@@ -1,0 +1,5 @@
+﻿  Array.cpp
+  ArrayTemp.cpp
+  Generating Code...
+C:\Users\Взрослая академия\source\Бондарук\Git\Array\ArrayTemp.h(30): warning C4715: 'operator<<': not all control paths return a value
+  Array.vcxproj -> C:\Users\Взрослая академия\source\Бондарук\Git\Array\Debug\ArrayTemp.exe
