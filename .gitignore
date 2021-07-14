@@ -31,3 +31,5 @@
 *.out
 *.app
 /ООП/.vs/ООП/v16/Browse.VC.opendb
+/Array/.vs/Array/v16
+*.opendb
