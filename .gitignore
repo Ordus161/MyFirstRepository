@@ -31,3 +31,10 @@
 *.out
 *.app
 /ООП/.vs/ООП/v16/Browse.VC.opendb
+*.db
+/.vs
+/Array/.vs/Array/v16
+/STL/.vs/STL/v16
+/BinareTree
+/BinaryTree/.vs/BinaryTree/v16
+/STL
