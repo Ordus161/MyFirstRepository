@@ -31,3 +31,5 @@
 *.out
 *.app
 /ООП/.vs/ООП/v16/Browse.VC.opendb
+/WorkWithFiles/Debug
+/WorkWithFiles/.vs/WorkWithFiles/v16
